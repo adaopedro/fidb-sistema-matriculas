@@ -5,6 +5,7 @@ programa
 	{
 		escreva("Olá Angola!!!")
 		escreva("Olá Angola!!!")
+		escreva("Olá Angola!!!")
 
 	}
 }
