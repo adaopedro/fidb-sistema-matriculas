@@ -4,6 +4,7 @@ programa
 	funcao inicio()
 	{
 		escreva("ola")
+		escreva("ola")
 	}
 }
 /* $$$ Portugol Studio $$$ 
