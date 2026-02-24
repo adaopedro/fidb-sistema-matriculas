@@ -4,6 +4,8 @@ programa
 	funcao inicio()
 	{
 		escreva("Olá Angola!!!")
+		escreva("Olá Angola!!!")
+
 	}
 }
 /* $$$ Portugol Studio $$$ 
