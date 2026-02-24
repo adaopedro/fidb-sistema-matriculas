@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		
+		escreva("ola")
 	}
 }
 /* $$$ Portugol Studio $$$ 
